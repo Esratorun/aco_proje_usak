@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+googlemaps
+python-dotenv
+matplotlib
+pydeck
+networkx
